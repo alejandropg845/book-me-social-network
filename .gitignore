@@ -1,0 +1,60 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+_ReSharper*/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Test results
+TestResults/
+
+# Dependencies
+node_modules/
+
+# Angular cache & build output
+.angular/
+dist/
+tmp/
+out-tsc/
+
+# IDE specific for Frontend
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# .editorconfig
