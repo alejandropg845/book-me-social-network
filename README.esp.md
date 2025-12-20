@@ -119,11 +119,15 @@ Herramientas completas para gestionar la identidad digital y las conexiones.
 - **Chat en tiempo Real:** Sistema de mensajería privada con seguidores. El historial de chat está paginado para garantizar una carga rápida incluso en conversaciones largas.
 - **Centro de notificaciones:** Alertas instantáneas sobre interacciones (likes, comentarios, solicitudes) recibidas a través de SignalR.
 
-## Despliegue (Azure)
+## Despliegue y Demo en Vivo
 
-La aplicación tanto frontend como backend ha sido desplegada utilizando App Services de Microsoft Azure.
-Para la base de datos pude notar que Azure suele "dormir" las instancias cuando no hay actividad, por lo que opté por usar una instancia de MonsterASP.NET.
+> 💡 Nota: Para la mejor experiencia, recomiendo usar la **Demo en Vivo** a continuación. La versión desplegada está precargada con usuarios y contenido, lo que permite visualizar las funcionalidades en tiempo real y el rendimiento de las consultas en un escenario realista. Si buscas una demostración de Docker/Microservicios, revisa mi repositorio contenerizado [Scrum Task Manager](https://github.com/alejandropg845/scrum-task-manager).
 
-<a href="https://book-me-client-d4btcufdayh5gadf.canadacentral-01.azurewebsites.net/bookmecontent/main-content/homepage" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_App-En_Vivo-0078D4?style=for-the-badge" alt="Ver Demo en Vivo">
-</a>
+<div align="center">
+  <br/>
+  <a href="https://book-me-client-d4btcufdayh5gadf.canadacentral-01.azurewebsites.net/bookmecontent/main-content/homepage" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Demo_en_Vivo-Visitar%20App-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Ver Demo en Vivo">
+  </a>
+  <br/>
+</div>
+
