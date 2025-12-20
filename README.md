@@ -119,16 +119,16 @@ Complete tools for managing digital identity and connections.
 - **Real-Time Chat:** Private messaging system with followers. Chat history is paginated to ensure fast loading even in long conversations.
 - **Notification Center:** Instant alerts for interactions (likes, comments, requests) received via SignalR.
 
-## Deployment (Azure)
+## Deployment & Live Demo
 
-Both the frontend and backend applications have been deployed using Microsoft Azure App Services.
-Regarding the database, since Azure tends to "sleep" instances during inactivity, I opted to use a MonsterASP.NET instance for better persistence availability.
+> 💡 Note: For the best experience, I recommend using the Live Demo below. The deployed version is pre-populated with users and content, showcasing the real-time features and query performance in a realistic scenario. If you are looking for a Docker/Microservices demo, check out my containerized [Scrum Task Manager](https://github.com/alejandropg845/scrum-task-manager) repository.
 
-<a href="https://book-me-client-d4btcufdayh5gadf.canadacentral-01.azurewebsites.net/bookmecontent/main-content/homepage" target="_blank">
-  <img src="https://img.shields.io/badge/View_Live_Demo-Visit_App-0078D4?style=for-the-badge" alt="View Live Demo">
-</a>
-
-<br/>
-<br/>
+<div align="center">
+  <br/>
+  <a href="https://book-me-client-d4btcufdayh5gadf.canadacentral-01.azurewebsites.net/bookmecontent/main-content/homepage" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live_Demo-Visit%20App-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="View Live Demo">
+  </a>
+  <br/>
+</div>
 
 Made by [Alejandro.NET](https://alejandropg845.github.io/resume)
